@@ -1,10 +1,10 @@
 ﻿
    
         // Skapa en string-array med leksaker
-        string[] toys = { "Barbie", "Lego", "Actionfigur", "Teddybjörn", "Brio Tåg" };
+        string[] toys = { "Docka", "Lego", "Apa", "Flygplan", "Leksak" };
 
         // Skapa en string-array med klasskamraternas namn
-        string[] classmates = { "Pelle", "Anna", "Lisa", "Erik", "Maja" };
+        string[] classmates = { "Leopold", "Sverre", "Bogdan", "Erik", "Micke" };
 
         // Skapa en integer-array med betyg
         int[] ratings = { 5, 8, 6, 7, 9 };
@@ -27,11 +27,12 @@
             if (input.ToLower() == "exit") break;
 
             cities.Add(input);
-        }
+        
 
         // Loop för att skriva ut alla städer
-        Console.WriteLine("\nDu har sparat följande städer:");
+        Console.WriteLine("Du har sparat följande städer:");
         foreach (string city in cities)
         {
             Console.WriteLine(city);
+        }
         }

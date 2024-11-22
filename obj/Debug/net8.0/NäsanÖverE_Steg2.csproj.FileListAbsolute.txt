@@ -12,3 +12,4 @@ C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\refint\N
 C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.pdb
 C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.genruntimeconfig.cache
 C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\ref\NäsanÖverE_Steg2.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.sourcelink.json
