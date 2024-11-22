@@ -1,0 +1,14 @@
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\bin\Debug\net8.0\NäsanÖverE_Steg2.exe
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\bin\Debug\net8.0\NäsanÖverE_Steg2.deps.json
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\bin\Debug\net8.0\NäsanÖverE_Steg2.runtimeconfig.json
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\bin\Debug\net8.0\NäsanÖverE_Steg2.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\bin\Debug\net8.0\NäsanÖverE_Steg2.pdb
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.AssemblyInfoInputs.cache
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.AssemblyInfo.cs
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.csproj.CoreCompileInputs.cache
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\refint\NäsanÖverE_Steg2.dll
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.pdb
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\NäsanÖverE_Steg2.genruntimeconfig.cache
+C:\Users\Erik.jawad\Documents\prog2\NäsanÖverE_Steg2\obj\Debug\net8.0\ref\NäsanÖverE_Steg2.dll
